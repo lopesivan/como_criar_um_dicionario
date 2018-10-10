@@ -1,0 +1,3 @@
+git remote -v
+git remote set-url origin file://${HOME}/git/como_criar_um_dicionario.git
+git remote -v
