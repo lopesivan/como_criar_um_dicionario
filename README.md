@@ -18,7 +18,9 @@ Você precisa instalar **stardict-tools**. Que consiste
 numa coleção de ferramentas para manipular dicionários
 interpretados pelo programa stardict.
 
-<tt>$ sudo apt-get install stardict-tools</tt>
+```
+$ sudo apt-get install stardict-tools
+```
 
 ### Configuração
 
