@@ -101,10 +101,10 @@ You could edit <tt>dictionary.ifo</tt> file to change some meta info like name o
 
 #Thanks!
 
-[melug](https://github.com/melug) for mappings for mon2unicode.sh.
+[lopesivan](https://github.com/lopesivan) for mappings for mon2unicode.sh.
 
 #Copyright and License
 ----------------------
 
-&copy; 2009-2012 by [Ochirkhuyag.L](mailto:ochkoo@gmail.com). It is licensed under the MIT license.
+&copy; 2009-2018 by [Ivan Lopes](mailto:lopesivanivan.ufrj@gmail.com). It is licensed under the MIT license.
 
